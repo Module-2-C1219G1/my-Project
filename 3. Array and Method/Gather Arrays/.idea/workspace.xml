@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea43b30a-a749-4c7e-b47e-70ce06511fae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XvTucWtbUjpVTao0xl9amCYJZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GatherArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GatherArray" />
+      <module name="Gather Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatherArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea43b30a-a749-4c7e-b47e-70ce06511fae" name="Default Changelist" comment="" />
+      <created>1581925791242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581925791242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1581927552852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581927552852" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1581927552852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581927552852" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1581927552852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581927552852" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1581927552852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581927552852" />
+    <state x="220" y="0" width="981" height="864" key="SettingsEditor" timestamp="1581927897727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="220" y="0" width="981" height="864" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581927897727" />
+    <state x="444" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1581927827614">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="444" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581927827614" />
+    <state x="209" y="8" key="new project wizard" timestamp="1581931069361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="8" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1581931069361" />
+  </component>
+</project>

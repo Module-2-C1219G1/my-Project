@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93b9c187-f8d6-44fc-924e-5ed7b2f23e31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y1r13L16SFZDVC3jD3d5HKhl5u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTriangle" />
+      <module name="Class Triangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93b9c187-f8d6-44fc-924e-5ed7b2f23e31" name="Default Changelist" comment="" />
+      <created>1582120722444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582120722444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="969" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1582121646165">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="969" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582121646165" />
+    <state width="677" height="201" key="GridCell.Tab.0.bottom" timestamp="1582171246244">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="201" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582171246244" />
+    <state width="677" height="201" key="GridCell.Tab.0.center" timestamp="1582171246244">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="201" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582171246244" />
+    <state width="677" height="201" key="GridCell.Tab.0.left" timestamp="1582171246240">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="201" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582171246240" />
+    <state width="677" height="201" key="GridCell.Tab.0.right" timestamp="1582171246244">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="201" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582171246244" />
+    <state x="826" y="185" key="search.everywhere.popup" timestamp="1582120979555">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="826" y="185" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582120979555" />
+  </component>
+</project>

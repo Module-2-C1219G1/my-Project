@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c3fbc6a-02fa-4afb-8298-824f8b7aa5df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y0Vdl5bg5jMQbaVUUpDPo5uZS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c3fbc6a-02fa-4afb-8298-824f8b7aa5df" name="Default Changelist" comment="" />
+      <created>1582079588278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582079588278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="92" key="#Project_Structure" timestamp="1582079600984">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="722" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582079600984" />
+    <state x="758" y="174" key="FileChooserDialogImpl" timestamp="1582079655865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="758" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582079655865" />
+    <state x="868" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1582079593496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="868" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582079593496" />
+    <state x="418" y="8" key="new project wizard" timestamp="1582079665841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="418" y="8" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582079665841" />
+  </component>
+</project>

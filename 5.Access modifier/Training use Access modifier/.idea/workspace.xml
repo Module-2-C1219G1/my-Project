@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c7aec7d-05a5-42b1-8321-a53f852ff8ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y0VnTivJ9HnzP9ytb9nvvP5bMX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCircle" />
+      <module name="Training use Access modifier" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c7aec7d-05a5-42b1-8321-a53f852ff8ff" name="Default Changelist" comment="" />
+      <created>1582079665933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582079665933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="758" y="174" width="442" height="514" key="FileChooserDialogImpl" timestamp="1582104349989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="758" y="174" width="442" height="514" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582104349989" />
+    <state x="889" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1582094971349">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="889" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582094971349" />
+    <state x="418" y="8" key="new project wizard" timestamp="1582104382353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="418" y="8" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582104382353" />
+  </component>
+</project>
