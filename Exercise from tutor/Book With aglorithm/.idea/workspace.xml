@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09eed81e-766c-4d89-9d9a-8fe182ee8fe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/Sym in stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA stack and queue/Sym in stack/src/StackSym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Collection/Product Manager/Test HashMap, Linked HasMap treeMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Search algorithm use recusion/Search algorithm use recusion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Search algorithm/Selection Sort/Selection Sort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.DSA list/ArraysList in java.util/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.DSA list/ArraysList in java.util/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.DSA list/Creat basic list/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.DSA list/Creat basic list/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.DSA list/Create basic Linkedlist/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.DSA list/Create basic Linkedlist/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.DSA list/Linkedlist in java.util/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.DSA list/Linkedlist in java.util/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.Extends/Class Circle and Cylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.Extends/Class Circle and Cylinder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/out/production/Interface Resizeable/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/out/production/Interface Resizeable/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/out/production/Interface Resizeable/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/out/production/Interface Resizeable/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/out/production/Interface Resizeable/TestResize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/TestResize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.Abstract class and Interface/src/TestResize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA stack and queue/ Creat Queue/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA stack and queue/ Creat Queue/src/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA stack and queue/Queue with array/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA stack and queue/Queue with array/src/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA stack and queue/Revert String/src/RevertWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA stack and queue/Revert String/src/RevertWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA stack and queue/Stack java.util/src/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA stack and queue/Stack java.util/src/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/Build Class Book.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/Test/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex/Test/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/out/production/Build Class Book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/out/production/Build Class Book/FictionBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/out/production/Build Class Book/ProgrammingBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/out/production/Build Class Book/TestBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/src/FictionBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/src/ProgrammingBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ex/src/TestBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contact/out/production/Contact/ManagerPhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Contact/out/production/Contact/ManagerPhoneBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contact/src/ManagerPhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Contact/src/ManagerPhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Hash map and hash set/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Collection/Hash map and hash set/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/TestProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Collection/ProductManager/src/TestProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/Test HashMap, Linked HasMap treeMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/out/production/Product Manager/TestMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Collection/Test HashMap, Linked HasMap treeMap/src/TestMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Search algorithm/Search algorithm use recusion/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Search algorithm/Search algorithm use recusion/src/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Yuki Douji\Desktop\Project\Exercise from tutor\Book With aglorithm\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YcHjrVCS0TDMvO9ibiy6v7MXDo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBook" />
+      <module name="Book With aglorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09eed81e-766c-4d89-9d9a-8fe182ee8fe2" name="Default Changelist" comment="" />
+      <created>1583235100727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583235100727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="902" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1583235671637">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="902" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583235671637" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1583245473073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583245473073" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1583245473073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583245473073" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1583245473073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583245473073" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1583245473073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583245473073" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1583245526497">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583245526497" />
+    <state x="639" y="245" width="538" height="491" key="extract.method.dialog" timestamp="1583237841859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="639" y="245" width="538" height="491" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1583237841859" />
+    <state x="782" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1583240220841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="782" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1583240220841" />
+  </component>
+</project>
